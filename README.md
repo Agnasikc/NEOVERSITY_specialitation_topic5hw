@@ -1,1 +1,4 @@
-# NEOVERSITY_specialitation_topic5hw
+# README
+
+Прізвище: Любов
+Імʼя: Владислав
